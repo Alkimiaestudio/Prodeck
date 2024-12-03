@@ -1,0 +1,544 @@
+{
+    "lanchas": [
+        {
+            "Astillero - Marca": "Arcoiris - Eclipse",
+            "Modelo": 17,
+            "Equipamiento": "Con butacas",
+            "Pesos ARS": 1568578.0
+        },
+        {
+            "Astillero - Marca": "Arcoiris - Eclipse",
+            "Modelo": 17,
+            "Equipamiento": "Back to back",
+            "Pesos ARS": 1568578.0
+        },
+        {
+            "Astillero - Marca": "Arcoiris - Eclipse",
+            "Modelo": "17 Dentro de borda",
+            "Equipamiento": "Con butacas + planchada extentida",
+            "Pesos ARS": 2119700.0
+        },
+        {
+            "Astillero - Marca": "Arcoiris - Eclipse",
+            "Modelo": "17 SS",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1568578.0
+        },
+        {
+            "Astillero - Marca": "Arcoiris - Eclipse",
+            "Modelo": 18,
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1950971.88
+        },
+        {
+            "Astillero - Marca": "Arcoiris - Eclipse",
+            "Modelo": "18 - Cuddy",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1607792.45
+        },
+        {
+            "Astillero - Marca": "Arcoiris - Eclipse",
+            "Modelo": 19,
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1950971.88
+        },
+        {
+            "Astillero - Marca": "Arcoiris - Eclipse",
+            "Modelo": "20 - Cuddy",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 2119700.0
+        },
+        {
+            "Astillero - Marca": "Arcoiris - Eclipse",
+            "Modelo": 20,
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 2119700.0
+        },
+        {
+            "Astillero - Marca": "Arcoiris - Eclipse",
+            "Modelo": "21 - Premium",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 2296341.667
+        },
+        {
+            "Astillero - Marca": "Arcoiris - Eclipse",
+            "Modelo": "21 - Butaca",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 2119700.0
+        },
+        {
+            "Astillero - Marca": "Fuentes - Classer",
+            "Modelo": 170,
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 2063527.95
+        },
+        {
+            "Astillero - Marca": "Fuentes - Classer",
+            "Modelo": 206,
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1803864.7
+        },
+        {
+            "Astillero - Marca": "Fuentes - Classer",
+            "Modelo": 165,
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1764650.25
+        },
+        {
+            "Astillero - Marca": "Pagliettini - Promax",
+            "Modelo": 5300,
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 2119700.0
+        },
+        {
+            "Astillero - Marca": "Pagliettini - Promax",
+            "Modelo": "RX6",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 2344388.2
+        },
+        {
+            "Astillero - Marca": "Campanili",
+            "Modelo": "CS 165",
+            "Equipamiento": "Back to back",
+            "Pesos ARS": 2213602.71
+        },
+        {
+            "Astillero - Marca": "Campanili",
+            "Modelo": "CS 175",
+            "Equipamiento": "Con butacas",
+            "Pesos ARS": 2063527.95
+        },
+        {
+            "Astillero - Marca": "Campanili",
+            "Modelo": "CS 175",
+            "Equipamiento": "Con living popa",
+            "Pesos ARS": 2225685.0
+        },
+        {
+            "Astillero - Marca": "Campanili",
+            "Modelo": "CS 180",
+            "Equipamiento": "Con butacas",
+            "Pesos ARS": 2119700.0
+        },
+        {
+            "Astillero - Marca": "Campanili",
+            "Modelo": "CS 180",
+            "Equipamiento": "Con living L",
+            "Pesos ARS": 1875934.5
+        },
+        {
+            "Astillero - Marca": "Campanili",
+            "Modelo": "SD 200",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 2331670.0
+        },
+        {
+            "Astillero - Marca": "Campanili",
+            "Modelo": "SD 209",
+            "Equipamiento": "Con butacas",
+            "Pesos ARS": 2296341.667
+        },
+        {
+            "Astillero - Marca": "Campanili",
+            "Modelo": "SD 209",
+            "Equipamiento": "Con living L",
+            "Pesos ARS": 2101046.64
+        },
+        {
+            "Astillero - Marca": "Campanili",
+            "Modelo": "SD 219",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 2119700.0
+        },
+        {
+            "Astillero - Marca": "Campanili",
+            "Modelo": "SD 240",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 2261013.333
+        },
+        {
+            "Astillero - Marca": "Piccini Boats",
+            "Modelo": 160,
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1568578.0
+        },
+        {
+            "Astillero - Marca": "Piccini Boats",
+            "Modelo": 165,
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1627399.675
+        },
+        {
+            "Astillero - Marca": "Piccini Boats",
+            "Modelo": 175,
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1686221.35
+        },
+        {
+            "Astillero - Marca": "Piccini Boats",
+            "Modelo": 190,
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1921508.05
+        },
+        {
+            "Astillero - Marca": "Piccini Boats",
+            "Modelo": "209 S",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1950971.88
+        },
+        {
+            "Astillero - Marca": "Piccini Boats",
+            "Modelo": "229 S",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 2344388.2
+        },
+        {
+            "Astillero - Marca": "Tecno",
+            "Modelo": "1600 Fly boat",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1351308.75
+        },
+        {
+            "Astillero - Marca": "Tecno",
+            "Modelo": 155,
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1686221.35
+        },
+        {
+            "Astillero - Marca": "Tecno",
+            "Modelo": 165,
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1764650.25
+        },
+        {
+            "Astillero - Marca": "Bermuda",
+            "Modelo": "Discovery 190",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 2119700.0
+        },
+        {
+            "Astillero - Marca": "Bermuda",
+            "Modelo": "160 Sport",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1568578.0
+        },
+        {
+            "Astillero - Marca": "Victoria",
+            "Modelo": "Victoria Air",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1351308.75
+        },
+        {
+            "Astillero - Marca": "Victoria",
+            "Modelo": "Open Wake",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1725435.8
+        },
+        {
+            "Astillero - Marca": "Victoria",
+            "Modelo": "Open Wake",
+            "Equipamiento": "Back to back",
+            "Pesos ARS": 2063527.95
+        },
+        {
+            "Astillero - Marca": "Victoria",
+            "Modelo": "Key west",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1803864.7
+        },
+        {
+            "Astillero - Marca": "Victoria",
+            "Modelo": "Valentino 212",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1875934.5
+        },
+        {
+            "Astillero - Marca": "Canestrari",
+            "Modelo": 160,
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1607792.45
+        },
+        {
+            "Astillero - Marca": "Canestrari",
+            "Modelo": 178,
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1913453.19
+        },
+        {
+            "Astillero - Marca": "Canestrari",
+            "Modelo": 208,
+            "Equipamiento": "Fuera de borda",
+            "Pesos ARS": 2063527.95
+        },
+        {
+            "Astillero - Marca": "Canestrari",
+            "Modelo": 208,
+            "Equipamiento": "Dentro de borda",
+            "Pesos ARS": 2119700.0
+        },
+        {
+            "Astillero - Marca": "Canestrari",
+            "Modelo": "215 Cuddy",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1875934.5
+        },
+        {
+            "Astillero - Marca": "Canestrari",
+            "Modelo": "235 Cuddy",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 2119700.0
+        },
+        {
+            "Astillero - Marca": "Canestrari",
+            "Modelo": "245 Cuddy",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1875934.5
+        },
+        {
+            "Astillero - Marca": "Canestrari",
+            "Modelo": "275 Cuddy",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 2119700.0
+        },
+        {
+            "Astillero - Marca": "Marine Sur - Quicksilver",
+            "Modelo": "2000 FB",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 2194843.365
+        },
+        {
+            "Astillero - Marca": "Marine Sur - Quicksilver",
+            "Modelo": "2000 DB",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 2119700.0
+        },
+        {
+            "Astillero - Marca": "Marine Sur - Quicksilver",
+            "Modelo": "2002 FB",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 2119700.0
+        },
+        {
+            "Astillero - Marca": "Marine Sur - Quicksilver",
+            "Modelo": 1800,
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 2063527.95
+        },
+        {
+            "Astillero - Marca": "Marine Sur - Quicksilver",
+            "Modelo": 1600,
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1568578.0
+        },
+        {
+            "Astillero - Marca": "Marine Sur - Quicksilver",
+            "Modelo": 555,
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1568578.0
+        },
+        {
+            "Astillero - Marca": "Marine Sur - Quicksilver",
+            "Modelo": 2400,
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1764650.25
+        },
+        {
+            "Astillero - Marca": "Marine Sur - Quicksilver",
+            "Modelo": 1700,
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1568578.0
+        },
+        {
+            "Astillero - Marca": "Lerch",
+            "Modelo": "180 GT",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 2119700.0
+        },
+        {
+            "Astillero - Marca": "Vision",
+            "Modelo": 180,
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1875934.5
+        },
+        {
+            "Astillero - Marca": "Regnicoli",
+            "Modelo": "Marea 630",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 2377879.46
+        },
+        {
+            "Astillero - Marca": "Klase A",
+            "Modelo": "K 180",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1764650.25
+        },
+        {
+            "Astillero - Marca": "Klase A",
+            "Modelo": "K 210 - 2020/23",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 2176084.02
+        },
+        {
+            "Astillero - Marca": "Klase A",
+            "Modelo": "K 210 -2024",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 2176084.02
+        },
+        {
+            "Astillero - Marca": "Quest",
+            "Modelo": 325,
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1988490.57
+        },
+        {
+            "Astillero - Marca": "Genesis",
+            "Modelo": 387,
+            "Equipamiento": "Planchada",
+            "Pesos ARS": 1351308.75
+        },
+        {
+            "Astillero - Marca": "Naval Center",
+            "Modelo": "Bow Rider 210",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1875934.5
+        },
+        {
+            "Astillero - Marca": "Hydrasport",
+            "Modelo": 28,
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 2344388.2
+        },
+        {
+            "Astillero - Marca": "Seadoo",
+            "Modelo": "Bombardier",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1576526.875
+        },
+        {
+            "Astillero - Marca": "Mediterranean",
+            "Modelo": 25,
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1764650.25
+        },
+        {
+            "Astillero - Marca": "Geuna",
+            "Modelo": "212 - Supreme",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 2296341.667
+        },
+        {
+            "Astillero - Marca": "Geuna",
+            "Modelo": 170,
+            "Equipamiento": "Con living L",
+            "Pesos ARS": 1913453.19
+        },
+        {
+            "Astillero - Marca": "Geuna",
+            "Modelo": 170,
+            "Equipamiento": "Con butacas",
+            "Pesos ARS": 2155028.333
+        },
+        {
+            "Astillero - Marca": "Geuna",
+            "Modelo": "Furia 150",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 2063527.95
+        },
+        {
+            "Astillero - Marca": "Astillero NRP",
+            "Modelo": "Sirena 185",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1764650.25
+        },
+        {
+            "Astillero - Marca": "Astillero Navegar - Semirigidos",
+            "Modelo": "Pampa 48",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1568578.0
+        },
+        {
+            "Astillero - Marca": "Astillero Alberto Franco",
+            "Modelo": "Gala 510",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 2101046.64
+        },
+        {
+            "Astillero - Marca": "Astillero PIANA",
+            "Modelo": "Marabunta 2 \"A\"",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1875934.5
+        },
+        {
+            "Astillero - Marca": "Astillero PIANA",
+            "Modelo": "Alfa 2",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1568578.0
+        },
+        {
+            "Astillero - Marca": "Campanili",
+            "Modelo": "CS 160",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1921508.05
+        },
+        {
+            "Astillero - Marca": "Vision",
+            "Modelo": 212,
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 2176084.02
+        },
+        {
+            "Astillero - Marca": "Virgin",
+            "Modelo": "Virgin 520",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1921508.05
+        },
+        {
+            "Astillero - Marca": "Bermuda",
+            "Modelo": "180 Sport",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1351308.75
+        },
+        {
+            "Astillero - Marca": "Bermuda",
+            "Modelo": "180 Sport",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1568578.0
+        },
+        {
+            "Astillero - Marca": "North Carolina",
+            "Modelo": "North Carolina 17",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1875934.5
+        },
+        {
+            "Astillero - Marca": "North Carolina",
+            "Modelo": "North Carolina 17",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1351308.75
+        },
+        {
+            "Astillero - Marca": "Kaisser",
+            "Modelo": "Advance 520",
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1568578.0
+        },
+        {
+            "Astillero - Marca": "Kiel",
+            "Modelo": 560,
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1568578.0
+        },
+        {
+            "Astillero - Marca": "Kiel",
+            "Modelo": 670,
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1950971.88
+        },
+        {
+            "Astillero - Marca": "Vision",
+            "Modelo": 200,
+            "Equipamiento": "Sin especificar",
+            "Pesos ARS": 1875934.5
+        }
+    ]
+}
